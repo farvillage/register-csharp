@@ -1,0 +1,4 @@
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.AssemblyInfoInputs.cache
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.AssemblyInfo.cs
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.csproj.CoreCompileInputs.cache
