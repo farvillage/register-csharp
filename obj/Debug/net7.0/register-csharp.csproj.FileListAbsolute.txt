@@ -2,3 +2,13 @@
 /Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.AssemblyInfoInputs.cache
 /Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.AssemblyInfo.cs
 /Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.csproj.CoreCompileInputs.cache
+/Users/farvillage/register-csharp/bin/Debug/net7.0/register-csharp
+/Users/farvillage/register-csharp/bin/Debug/net7.0/register-csharp.deps.json
+/Users/farvillage/register-csharp/bin/Debug/net7.0/register-csharp.runtimeconfig.json
+/Users/farvillage/register-csharp/bin/Debug/net7.0/register-csharp.dll
+/Users/farvillage/register-csharp/bin/Debug/net7.0/register-csharp.pdb
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.dll
+/Users/farvillage/register-csharp/obj/Debug/net7.0/refint/register-csharp.dll
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.pdb
+/Users/farvillage/register-csharp/obj/Debug/net7.0/register-csharp.genruntimeconfig.cache
+/Users/farvillage/register-csharp/obj/Debug/net7.0/ref/register-csharp.dll
